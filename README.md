@@ -1,1 +1,2 @@
-# unit-4-game
+# Rupee Collector Game  
+https://samestorga.github.io/unit-4-game/
